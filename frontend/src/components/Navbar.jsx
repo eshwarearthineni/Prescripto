@@ -18,18 +18,18 @@ const Navbar = () => {
             </NavLink>
 
             <NavLink>
-                <li>About</li>
+                <li>Abouts</li>
                 <hr />
             </NavLink>
 
             <NavLink>
-                <li>Contact</li>
+                <li>Contacts</li>
                 <hr />
             </NavLink>
 
         </ul>
         <div>
-            <button>Create Account</button>
+            <button>Create Accounts</button>
         </div>
 
 
